@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!--
 Education
 ======
 * 公共事业管理, 湖南中医药大学 2019-2023
@@ -57,3 +57,4 @@ Teaching
 Leadership and Service
 ======
 * 2021年湖南省大学生创新创业训练计划省级项目主持人
+-->
