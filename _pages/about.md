@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "欢迎来到超级懒的小周的自留地/学术主页？"
+title: "Jianhong Bai's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-这是由 [academicpages template](https://github.com/academicpages/academicpages.github.io) 提供支持并托管在 GitHub 页面上的网站的首页。 [GitHub pages](https://pages.github.com) 是一项免费服务，在该服务中，网站是根据存储在 GitHub 存储库中的代码和数据构建和托管的，当对存储库进行新提交时会自动更新。这个模板是从 Michael Rose 创建的 [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) 衍生出来的，然后扩展到支持学术界拥有的各种内容：出版物、演讲、教学、作品集、博客文章和动态生成的简历。现在就可以fork [this repository](https://github.com/zhoulvbang/zhoulvbang.github.io)，修改配置和markdown文件，添加自己的PDF等内容，免费拥有自己的站点，没有广告！这个模板的旧版本支持我自己的个人网站 [stuartgeiger.com](http://stuartgeiger.com)，它使用 [this Github repository](https://github.com/staeiou/staeiou.github.io )
-
-![初步的学术主页页面](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/firstpage50k.png)
-
+Welcome to my website! I'm Jianhong Bai. I am now a 2th-year Ph.D. candidate at Zhejiang University (Hangzhou, China), advised by Prof. Haoji Hu. Before that, I received my M.S. degree from Beijing Institute of Technology. 
+<!--
 A data-driven personal website：一个数据驱动的个人网站
 ======
 
@@ -102,3 +100,4 @@ For more info:欲了解更多信息
 More info about configuring academicpages can be found in [the guide](https://zhoulvbang.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 有关配置学术页面的更多信息可以在 [the guide](https://zhoulvbang.github.io/markdown/) 中找到。 [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)（这个主题是从它派生出来的）也可能会有所帮助。
+-->
