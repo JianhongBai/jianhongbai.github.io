@@ -89,10 +89,10 @@ author:
   location         : "China"
   employer         : "Zhejiang University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  zhihu            : "people/zhoulvbang"
-  email            : "zhoulvbang@163.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=U926UgYAAAAJ&hl=en"
+  #zhihu            : "people/zhoulvbang"
+  email            : "jianhongbai@zju.edu.cn"
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
   codepen          :
@@ -100,17 +100,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhoulvbang"
+  github           : "JianhongBai"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : ""
