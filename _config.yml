@@ -79,12 +79,11 @@ analytics:
 author:
   name             : "Jianhong Bai (白健弘)"
   avatar           : "academic50k.png"
-  bio              : "2th-year Ph.D. candidate"
-  location         : "China"
-  employer         : "Zhejiang University"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "2nd-year Ph.D. candidate"
+  employer         : "Zhejiang University, China"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=U926UgYAAAAJ&hl=en"
-  #zhihu            : "people/zhoulvbang"
+  # zhihu            : "people/zhoulvbang"
   email            : "jianhongbai@zju.edu.cn"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
