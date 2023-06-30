@@ -10,7 +10,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "白健弘 / Academics Page"
+title                    : "Jianhong Bai (白健弘) / Academics Page"
 title_separator          : "-"
 name                     : &name "Jianhong Bai"
 description              : &description "personal description"
@@ -83,9 +83,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "白健弘"
+  name             : "Jianhong Bai (白健弘)"
   avatar           : "academic50k.png"
-  bio              : "---"
+  bio              : "2th-year Ph.D. candidate at Zhejiang University"
   location         : "China"
   employer         : "Zhejiang University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
