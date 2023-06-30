@@ -21,3 +21,23 @@ My research focuses on computer vision, and I have done several works in self-/s
 <li> <b>2021/09</b>: Join Prof. <a href="https://person.zju.edu.cn/en/huhaoji">Hu</a>'s lab at Zhejiang University. </li>
   
 </ul>
+
+## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Publications ##
+<table style="border: none; border-collapse: collapse;" border="0">
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/1.png" width="800" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Jianhong Bai</b>, Zuozhu Liu, Hualiang Wang et al.
+    "On The Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning".
+    In <b>ICLR</b> 2023 .<br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/1.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2306.04934">Arxiv</a></span><br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/1.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/JianhongBai/COLT">Code</a></span>
+  </td>
+</tr>
+  
+</table>
