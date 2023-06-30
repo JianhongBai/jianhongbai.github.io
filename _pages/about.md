@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
-Welcome to my website! I'm Jianhong Bai. I am now a 2nd-year Ph.D. candidate at Zhejiang University (Hangzhou, China), advised by Prof. Haoji Hu. Before that, I received my M.S. degree from Beijing Institute of Technology. 
+Welcome to my website! I'm Jianhong Bai. I am currently a 2nd-year Ph.D. candidate at Zhejiang University (Hangzhou, China), advised by Prof. Haoji Hu. Before that, I received my B.S. degree from Beijing Institute of Technology. 
 
 My research focuses on computer vision, and I have done several works in self-/semi-supervised learning, long-tail learning, open-world learning, model compression and etc.
 
