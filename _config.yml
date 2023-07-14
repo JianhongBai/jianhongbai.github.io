@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Jianhong Bai (白健弘)"
-  avatar           : "1.png"
+  avatar           : "https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/avatar.png"
   bio              : "2nd-year Ph.D. candidate"
   employer         : "Zhejiang University, China"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
