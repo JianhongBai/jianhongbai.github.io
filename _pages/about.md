@@ -15,7 +15,7 @@ My research focuses on computer vision, and I have done several works in self-/s
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
-<ul style="width: auto; height: 300px; overflow: auto">
+<ul style="width: auto; height: 80px; overflow: auto">
 
 <li> <b>2023/01</b>: One paper accepted by ICLR'23. </li>
 <li> <b>2021/09</b>: Join Prof. <a href="https://person.zju.edu.cn/en/huhaoji">Hu</a>'s lab at Zhejiang University. </li>
