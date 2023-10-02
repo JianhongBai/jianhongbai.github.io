@@ -17,12 +17,14 @@ My research focuses on computer vision, and I have done several works in self-/s
 
 <ul style="width: auto; height: 80px; overflow: auto">
 
+<li> <b>2023/09</b>: Two paper accepted by NeurIPS'23. </li>
+<li> <b>2023/08</b>: Start a research internship at Microsoft Research Asia (MSRA), advised by Prof. <a href="https://www.microsoft.com/en-us/research/people/tianyuhe/">Tianyu He</a> and Prof. <a href="https://tan-xu.github.io/">Xu Tan</a>. </li>
 <li> <b>2023/01</b>: One paper accepted by ICLR'23. </li>
 <li> <b>2021/09</b>: Join Prof. <a href="https://person.zju.edu.cn/en/huhaoji">Hu</a>'s lab at Zhejiang University. </li>
   
 </ul>
 
-## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Publications ##
+## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Selected Publications ##
 <table style="border: none; border-collapse: collapse;" border="0">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
@@ -32,7 +34,7 @@ My research focuses on computer vision, and I have done several works in self-/s
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Zuozhu Liu, Hualiang Wang et al.
     "On The Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning".
-    In <b>ICLR</b> 2023 .<br>
+    In <b>ICLR</b> 2023.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2306.04934v2">Arxiv</a></span><br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
