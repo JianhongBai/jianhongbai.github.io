@@ -15,7 +15,7 @@ My research focuses on computer vision, and I have done several works in self-/s
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
-<ul style="width: auto; height: 80px; overflow: auto">
+<ul style="width: auto; height: 300px; overflow: auto">
 
 <li> <b>2023/09</b>: Two paper accepted by NeurIPS'23. </li>
 <li> <b>2023/08</b>: Start a research internship at Microsoft Research Asia (MSRA), advised by Prof. <a href="https://www.microsoft.com/en-us/research/people/tianyuhe/">Tianyu He</a> and Prof. <a href="https://tan-xu.github.io/">Xu Tan</a>. </li>
