@@ -36,9 +36,24 @@ My research focuses on computer vision, and I have done several works in self-/s
     "On The Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning".
     In <b>ICLR</b> 2023.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/abs/2306.04934v2">Arxiv</a></span><br>
+    <span><a href="https://arxiv.org/abs/2306.04934">Arxiv</a></span><br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/JianhongBai/COLT">Code</a></span>
+
+
+<table style="border: none; border-collapse: collapse;" border="0">
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_neurips23.svg" width="800" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Jianhong Bai</b>, Zuozhu Liu, Hualiang Wang et al.
+    "Towards Distribution-Agnostic Generalized Category Discovery".
+    In <b>NeurIPS</b> 2023.<br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/abs/2310.01376">Arxiv</a></span><br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/JianhongBai/BaCon">Code</a></span>
   </td>
 </tr>
   
