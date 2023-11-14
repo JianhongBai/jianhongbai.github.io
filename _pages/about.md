@@ -30,7 +30,7 @@ My research focuses on computer vision, and I have done several works in self-/s
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_ris.png" width="800" />
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_ris.png" width="660" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Yuchen Yang, Huanpeng Chu et al.
