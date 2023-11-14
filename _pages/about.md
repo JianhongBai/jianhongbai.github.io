@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
-Welcome to my website! I'm Jianhong Bai. I am currently a 2nd-year Ph.D. candidate at Zhejiang University (Hangzhou, China), advised by Prof. Haoji Hu. Before that, I received my B.S. degree from Beijing Institute of Technology. 
+Welcome to my website! I'm Jianhong Bai. I am currently a 3nd-year Ph.D. candidate at Zhejiang University (Hangzhou, China), advised by Prof. Haoji Hu. Before that, I received my B.S. degree from Beijing Institute of Technology. 
 
-My research focuses on computer vision, and I have done several works in self-/semi-supervised learning, long-tail learning, open-world learning, model compression and etc.
+My research focuses on computer vision, and I have done several works in self-/semi-supervised learning, long-tail learning, open-world learning, model compression and etc. I also have a strong interest in AI generated content (AIGC).
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
@@ -25,20 +25,19 @@ My research focuses on computer vision, and I have done several works in self-/s
 </ul>
 
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Selected Publications ##
+
 <table style="border: none; border-collapse: collapse;" border="0">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_iclr23.png" width="800" />
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_ris.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
-    <b>Jianhong Bai</b>, Zuozhu Liu, Hualiang Wang et al.
-    "On The Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning".
-    In <b>ICLR</b> 2023.<br>
+    <b>Jianhong Bai</b>, Yuchen Yang, Huanpeng Chu et al.
+    "Robustness-Guided Image Synthesis for Data-Free Quantization".
+    In <b>Arxiv</b>.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/abs/2306.04934">Arxiv</a></span><br>
-    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/JianhongBai/COLT">Code</a></span>
+    <span><a href="https://arxiv.org/pdf/2310.03661">Arxiv</a></span><br>
   </td>
 </tr>
   
@@ -58,6 +57,25 @@ My research focuses on computer vision, and I have done several works in self-/s
     <span><a href="https://arxiv.org/abs/2310.01376">Arxiv</a></span><br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/JianhongBai/BaCon">Code</a></span>
+  </td>
+</tr>
+  
+</table>
+
+<table style="border: none; border-collapse: collapse;" border="0">
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_iclr23.png" width="800" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Jianhong Bai</b>, Zuozhu Liu, Hualiang Wang et al.
+    "On The Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning".
+    In <b>ICLR</b> 2023.<br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/abs/2306.04934">Arxiv</a></span><br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/JianhongBai/COLT">Code</a></span>
   </td>
 </tr>
   
