@@ -30,23 +30,6 @@ My research focuses on computer vision, and I have done several works in self-/s
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_ris.png" width="660" />
-  </td>
-  <td style="border-collapse: collapse; border: none;">
-    <b>Jianhong Bai</b>, Yuchen Yang, Huanpeng Chu et al.
-    "Robustness-Guided Image Synthesis for Data-Free Quantization".
-    In <b>Arxiv</b>.<br>
-    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/pdf/2310.03661">Arxiv</a></span><br>
-  </td>
-</tr>
-  
-</table>
-
-<table style="border: none; border-collapse: collapse;" border="0">
-
-<tr style="border-collapse: separate; border-spacing:30em;">
-  <td style="border-collapse: collapse; border: none;">
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_neurips23.svg" width="685" />
   </td>
   <td style="border-collapse: collapse; border: none;">
@@ -76,6 +59,40 @@ My research focuses on computer vision, and I have done several works in self-/s
     <span><a href="https://arxiv.org/abs/2306.04934">Arxiv</a></span><br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/JianhongBai/COLT">Code</a></span>
+  </td>
+</tr>
+  
+</table>
+
+<table style="border: none; border-collapse: collapse;" border="0">
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_ris.png" width="660" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Jianhong Bai</b>, Yuchen Yang, Huanpeng Chu et al.
+    "Robustness-Guided Image Synthesis for Data-Free Quantization".
+    <b>Preprint</b>.<br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2310.03661">Arxiv</a></span><br>
+  </td>
+</tr>
+  
+</table>
+
+<table style="border: none; border-collapse: collapse;" border="0">
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_teg_dg.png" width="660" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Lianrui Mu*, <b>Jianhong Bai*</b>, Xiaoxuan He et al.
+    "TeG-DG: Textually Guided Domain Generalization for Face Anti-Spoofing".
+    <b>Preprint</b>.<br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="">Arxiv</a></span><br>
   </td>
 </tr>
   
