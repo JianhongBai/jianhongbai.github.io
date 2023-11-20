@@ -85,7 +85,7 @@ My research focuses on computer vision, and I have done several works in self-/s
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_teg_dg.png" width="660" />
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_teg_dg.png" width="690" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Lianrui Mu*, <b>Jianhong Bai*</b>, Xiaoxuan He et al.
