@@ -92,7 +92,7 @@ My research focuses on computer vision, and I have done several works in self-/s
     "TeG-DG: Textually Guided Domain Generalization for Face Anti-Spoofing".
     <b>Preprint</b>.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="">Arxiv</a></span><br>
+    <span><a href="https://arxiv.org/pdf/2311.18420">Arxiv</a></span><br>
   </td>
 </tr>
   
