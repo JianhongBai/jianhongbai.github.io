@@ -17,9 +17,10 @@ My research focuses on computer vision, and I have done several works in self-/s
 
 <ul style="width: auto; height: 160px; overflow: auto">
 
-<li> <b>2023/09</b>: Two paper accepted by NeurIPS'23. </li>
+<li> <b>2023/12</b>: 1 paper accepted by AAAI'24. </li>
+<li> <b>2023/09</b>: 2 paper accepted by NeurIPS'23. </li>
 <li> <b>2023/08</b>: Start a research internship at Microsoft Research Asia (MSRA), advised by Prof. <a href="https://www.microsoft.com/en-us/research/people/tianyuhe/">Tianyu He</a> and Prof. <a href="https://tan-xu.github.io/">Xu Tan</a>. </li>
-<li> <b>2023/01</b>: One paper accepted by ICLR'23. </li>
+<li> <b>2023/01</b>: 1 paper accepted by ICLR'23. </li>
 <li> <b>2021/09</b>: Join Prof. <a href="https://person.zju.edu.cn/en/huhaoji">Hu</a>'s lab at Zhejiang University. </li>
   
 </ul>
