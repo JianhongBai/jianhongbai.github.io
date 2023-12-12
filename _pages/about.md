@@ -73,7 +73,7 @@ My research focuses on computer vision, and I have done several works in self-/s
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Yuchen Yang, Huanpeng Chu et al.
     "Robustness-Guided Image Synthesis for Data-Free Quantization".
-    <b>Preprint</b>.<br>
+    In <b>AAAI</b> 2024.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2310.03661">Arxiv</a></span><br>
   </td>
