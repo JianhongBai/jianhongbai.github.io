@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
-Welcome to my website! I'm Jianhong Bai. I am currently a 3rd-year Ph.D. candidate at Zhejiang University (Hangzhou, China), advised by Prof. Haoji Hu. Before that, I received my B.S. degree from Beijing Institute of Technology. 
+Welcome to my website! I'm Jianhong Bai. I am a 3rd-year Ph.D. candidate at Zhejiang University (Hangzhou, China), advised by Prof. Haoji Hu. Before that, I received my B.S. degree from Beijing Institute of Technology. 
 
-My research focuses on computer vision, and I have done several works in self-/semi-supervised learning, long-tail learning, open-world learning, model compression and etc. I also have a strong interest in AI generated content (AIGC).
+My research focuses on computer vision, and I have done several works in self-/semi-supervised learning, long-tail learning, open-world learning, and model compression. I am conducting research related to AIGC, especially in generating and editing videos.
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
