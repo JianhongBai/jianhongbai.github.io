@@ -31,6 +31,23 @@ My research focuses on computer vision, and I have done several works in self-/s
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
+    <img src="https://github.com/JianhongBai/jianhongbai.github.io/assets/74419686/3d872c2d-1515-450a-944f-c187d8ed534a" width="393" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Jianhong Bai</b>, Tianyu He, Yuchi Wang et al.
+    "<a href="https://jianhongbai.github.io/UniEdit/">UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing</a>".
+    <b>Preprint</b> 2024.<br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/abs/2402.13185">Arxiv</a></span><br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/JianhongBai/UniEdit">Code</a></span>
+  </td>
+</tr>
+
+<table style="border: none; border-collapse: collapse;" border="0">
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_neurips23.svg" width="685" />
   </td>
   <td style="border-collapse: collapse; border: none;">
