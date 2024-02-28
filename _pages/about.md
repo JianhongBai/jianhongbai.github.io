@@ -41,7 +41,8 @@ My research focuses on computer vision, and I have done several works in self-/s
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2402.13185">Arxiv</a></span><br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/JianhongBai/UniEdit">Code</a></span>
+    <span><a href="https://github.com/JianhongBai/UniEdit">Code</a></span><br>
+    <span><a href="https://jianhongbai.github.io/UniEdit/">Project page</a></span>
   </td>
 </tr>
 
