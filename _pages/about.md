@@ -31,7 +31,7 @@ My research focuses on computer vision, and I have done several works in self-/s
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/JianhongBai/jianhongbai.github.io/assets/74419686/3d872c2d-1515-450a-944f-c187d8ed534a" width="550" />
+    <img src="https://github.com/JianhongBai/jianhongbai.github.io/assets/74419686/3d872c2d-1515-450a-944f-c187d8ed534a" width="685" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Tianyu He, Yuchi Wang et al.
