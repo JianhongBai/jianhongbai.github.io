@@ -30,7 +30,22 @@ My research focuses on computer vision, and I have done several works in self-/s
 
 <table style="border: none; border-collapse: collapse;" border="0">
 
-<!-- https://github.com/JianhongBai/jianhongbai.github.io/assets/74419686/3d872c2d-1515-450a-944f-c187d8ed534a -->
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://github.com/user-attachments/assets/4a734193-cbcd-4f48-9806-b3c07de6cf80" width="750" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Jianhong Bai</b>, Menghan Xia, Xintao Wang et al.
+    "<a href="https://jianhongbai.github.io/SynCamMaster/">SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints</a>".
+    <b>Preprint</b> 2024.<br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/abs/2412.07760">Arxiv</a></span><br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KwaiVGI/SynCamMaster">Code</a></span><br>
+    <span><a href="https://jianhongbai.github.io/SynCamMaster/">Project page</a></span>
+  </td>
+</tr>
+
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
     <img src="https://github.com/JianhongBai/jianhongbai.github.io/assets/74419686/afc8d0c5-46d6-44e2-96f4-49f73e6728ec" width="750" />
