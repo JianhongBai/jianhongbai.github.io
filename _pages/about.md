@@ -17,6 +17,8 @@ My research focuses on computer vision, and I have done several works in self-/s
 
 <ul style="width: auto; height: 180px; overflow: auto">
 
+<li> <b>2025/01</b>: 1 paper accepted by ICLR'25. </li>
+<li> <b>2024/12</b>: 1 paper accepted by AAAI'25. </li>
 <li> <b>2024/05</b>: Start a research internship at Kuaishou VGI Lab, advised by Prof. <a href="https://xinntao.github.io/">Xintao Wang</a> and Prof. <a href="https://menghanxia.github.io/">Menghan Xia</a>. </li>
 <li> <b>2023/12</b>: 1 paper accepted by AAAI'24. </li>
 <li> <b>2023/09</b>: 2 paper accepted by NeurIPS'23. </li>
