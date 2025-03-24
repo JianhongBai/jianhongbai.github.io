@@ -84,7 +84,7 @@ My main research interests lie in controllable video generation and video editin
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_neurips23.svg" width="685" />
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_neurips23.svg" width="625" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Zuozhu Liu, Hualiang Wang et al.
@@ -103,7 +103,7 @@ My main research interests lie in controllable video generation and video editin
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_iclr23.png" width="800" />
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_iclr23.png" width="735" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Zuozhu Liu, Hualiang Wang et al.
@@ -122,7 +122,7 @@ My main research interests lie in controllable video generation and video editin
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_ris.png" width="660" />
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_ris.png" width="630" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Yuchen Yang, Huanpeng Chu et al.
@@ -139,7 +139,7 @@ My main research interests lie in controllable video generation and video editin
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_teg_dg.png" width="690" />
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_teg_dg.png" width="630" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Lianrui Mu*, <b>Jianhong Bai*</b>, Xiaoxuan He et al.
