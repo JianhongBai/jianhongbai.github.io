@@ -55,7 +55,7 @@ My main research interests lie in controllable video generation and video editin
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Menghan Xia, Xintao Wang et al.
     "<a href="https://jianhongbai.github.io/SynCamMaster/">SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints</a>".
-    <b>ICLR</b> 2025.<br>
+    In <b>ICLR</b> 2025.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2412.07760">Arxiv</a></span><br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -77,6 +77,21 @@ My main research interests lie in controllable video generation and video editin
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/JianhongBai/UniEdit">Code</a></span><br>
     <span><a href="https://jianhongbai.github.io/UniEdit/">Project page</a></span>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://github.com/user-attachments/assets/4a4bb90c-67d2-4f9b-a771-7619bd52c1de" width="750" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Yuchi Wang, Junliang Guo, <b>Jianhong Bai</b> et al.
+    "<a href="https://wangyuchi369.github.io/InstructAvatar/">InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation</a>".
+    In <b>AAAI</b> 2024.<br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/abs/2405.15758">Arxiv</a></span><br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://wangyuchi369.github.io/InstructAvatar/">Project page</a></span>
   </td>
 </tr>
 
