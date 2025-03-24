@@ -84,7 +84,7 @@ My main research interests lie in controllable video generation and video editin
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_neurips23.svg" width="625" />
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_neurips23.svg" width="615" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Zuozhu Liu, Hualiang Wang et al.
