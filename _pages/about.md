@@ -43,7 +43,9 @@ My main research interests lie in controllable video generation and video editin
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2503.11647">Arxiv</a></span><br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KwaiVGI/ReCamMaster">Code</a></span><br>
+    <span><a class="more-link" href="https://github.com/KwaiVGI/ReCamMaster" target="_blank"><img
+    alt="GitHub stars"
+    src="https://img.shields.io/github/stars/KwaiVGI/ReCamMaster?style=social" /></a></span><br>
     <span><a href="https://jianhongbai.github.io/ReCamMaster/">Project page</a></span>
   </td>
 </tr>
@@ -59,7 +61,9 @@ My main research interests lie in controllable video generation and video editin
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2412.07760">Arxiv</a></span><br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KwaiVGI/SynCamMaster">Code</a></span><br>
+    <span><a class="more-link" href="https://github.com/KwaiVGI/SynCamMaster" target="_blank"><img
+    alt="GitHub stars"
+    src="https://img.shields.io/github/stars/KwaiVGI/SynCamMaster?style=social" /></a></span><br>
     <span><a href="https://jianhongbai.github.io/SynCamMaster/">Project page</a></span>
   </td>
 </tr>
