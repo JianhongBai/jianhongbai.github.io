@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
-Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang University, advised by Prof. Haoji Hu. Before that, I received my B.S. degree from Beijing Institute of Technology. Currently, I'm a research intern with the Kling Team, focusing on controllable video generation. I was fortunate to intern at MSRA, working with many fantastic researchers. Feel free to reach out to me at [cpurgicn@gmail.com](mailto:cpurgicn@gmail.com)..
+Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang University, advised by Prof. Haoji Hu. Before that, I received my B.S. degree from Beijing Institute of Technology. Currently, I'm a research intern with the Kling Team, focusing on controllable video generation. I was fortunate to intern at MSRA, working with many fantastic researchers. Feel free to reach out to me at [cpurgicn@gmail.com](mailto:cpurgicn@gmail.com).
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
