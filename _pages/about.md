@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
-Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang University (Hangzhou, China), advised by Prof. Haoji Hu. Before that, I received my B.S. degree from Beijing Institute of Technology. 
+Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang University, advised by Prof. Haoji Hu. Before that, I received my B.S. degree from Beijing Institute of Technology. Currently, I'm a research intern with the Kling Team, focusing on controllable video generation. I was fortunate to intern at MSRA, working with many fantastic researchers.
 
-My main research interests lie in controllable video generation and video editing. I have also explored self-supervised learning, long-tail learning, and model compression in my previous work.
+My primary research interests include controllable video generation and video editing. I've explored self-supervised learning, long-tail learning, and model compression in my previous work. Feel free to reach out to me at cpurgicn@gmail.com."
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
@@ -19,7 +19,7 @@ My main research interests lie in controllable video generation and video editin
 
 <li> <b>2025/01</b>: 1 paper accepted by ICLR'25. </li>
 <li> <b>2024/12</b>: 1 paper accepted by AAAI'25. </li>
-<li> <b>2024/05</b>: Start a research internship at Kuaishou VGI Lab, advised by Prof. <a href="https://xinntao.github.io/">Xintao Wang</a> and Prof. <a href="https://menghanxia.github.io/">Menghan Xia</a>. </li>
+<li> <b>2024/05</b>: Start a research internship at Kling Team, advised by Prof. <a href="https://xinntao.github.io/">Xintao Wang</a> and Prof. <a href="https://menghanxia.github.io/">Menghan Xia</a>. </li>
 <li> <b>2023/12</b>: 1 paper accepted by AAAI'24. </li>
 <li> <b>2023/09</b>: 2 paper accepted by NeurIPS'23. </li>
 <li> <b>2023/08</b>: Start a research internship at Microsoft Research Asia (MSRA), advised by Prof. <a href="https://www.microsoft.com/en-us/research/people/tianyuhe/">Tianyu He</a> and Prof. <a href="https://tan-xu.github.io/">Xu Tan</a>. </li>
@@ -38,7 +38,7 @@ My main research interests lie in controllable video generation and video editin
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Menghan Xia, Xintao Wang et al.
-    "<a href="https://jianhongbai.github.io/ReCamMaster/">ReCamMaster: Camera-Controlled Generative Rendering from A Single Video</a>".
+    "ReCamMaster: Camera-Controlled Generative Rendering from A Single Video".
     <b>Preprint</b> 2025.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2503.11647">Arxiv</a></span><br>
@@ -56,7 +56,7 @@ My main research interests lie in controllable video generation and video editin
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Menghan Xia, Xintao Wang et al.
-    "<a href="https://jianhongbai.github.io/SynCamMaster/">SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints</a>".
+    "SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints".
     In <b>ICLR</b> 2025.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2412.07760">Arxiv</a></span><br>
@@ -74,7 +74,7 @@ My main research interests lie in controllable video generation and video editin
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Tianyu He, Yuchi Wang et al.
-    "<a href="https://jianhongbai.github.io/UniEdit/">UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing</a>".
+    "UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing".
     <b>Preprint</b> 2024.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2402.13185">Arxiv</a></span><br>
@@ -90,7 +90,7 @@ My main research interests lie in controllable video generation and video editin
   </td>
   <td style="border-collapse: collapse; border: none;">
     Yuchi Wang, Junliang Guo, <b>Jianhong Bai</b> et al.
-    "<a href="https://wangyuchi369.github.io/InstructAvatar/">InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation</a>".
+    "InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation".
     In <b>AAAI</b> 2024.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2405.15758">Arxiv</a></span><br>
