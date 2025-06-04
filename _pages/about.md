@@ -84,6 +84,22 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
+    <img src="https://github.com/user-attachments/assets/9abe02c1-bf63-4ce9-a5b5-9da1e87e033d" width="750" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Xiao Fu, Xintao Wang, Xian Liu, <b>Jianhong Bai</b> et al.
+    "Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control".
+    <b>Preprint</b> 2025.<br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2506.01943">Arxiv</a></span><br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KwaiVGI/RoboMaster">Code</a></span><br>
+    <span><a href="https://fuxiao0719.github.io/projects/robomaster/">Project page</a></span>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
     <img src="https://github.com/user-attachments/assets/4a4bb90c-67d2-4f9b-a771-7619bd52c1de" width="750" />
   </td>
   <td style="border-collapse: collapse; border: none;">
