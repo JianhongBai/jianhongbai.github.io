@@ -216,8 +216,6 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
   
 </table>
 
-## <i class="fa" aria-hidden="true"></i> Experience ##
-
 <head>  
   <style>  
     table, th, td {  
@@ -225,6 +223,8 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
     }  
   </style>  
 </head>
+
+## Experience
 
 <table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
