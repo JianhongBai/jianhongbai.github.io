@@ -215,3 +215,58 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
 </tr>
   
 </table>
+
+## Experience
+
+<head>  
+  <style>  
+    table, th, td {  
+      border: 0;  
+    }  
+  </style>  
+</head>
+
+<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tbody>
+        <tr>
+            <td  style="padding:20px;width:20%;vertical-align:middle">
+                <img width="130" src="/images/kuaishou_logo.png">
+            </td>
+            <td style="margin-left:20px;width:80%;vertical-align:middle">
+                <div >
+                    Research Intern, Kling, Kuaishou
+                </div>
+                May. 2024 - Present <br>
+                Advisor: <a href="https://menghanxia.github.io/">Menghan Xia</a>, <a href="https://xinntao.github.io/">Xintao Wang</a><br>
+                Interests: Controlled Video Generation.
+            </td>
+        </tr>
+
+        <tr>
+            <td  style="padding:20px;width:20%;vertical-align:middle">
+                <img width="130" src="/images/ms_logo.png">
+            </td>
+            <td style="margin-left:20px;width:80%;vertical-align:middle">
+                <div >
+                    Research Intern, Machine Learning Group, <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">MicroSoft Research Asia</a>
+                Beijing, China</div>
+                Aug. 2023 - May. 2024 <br>
+                Advisor: <a href="https://scholar.google.com/citations?user=P08KU1YAAAAJ&hl=en">Tianyu He</a>, <a href="https://tan-xu.github.io/">Xu Tan</a><br>
+                Interests: Video Editing
+            </td>
+        </tr>
+        
+        <tr>
+            <td  style="padding:20px;width:20%;vertical-align:middle">
+                <img width="130" src="/images/zju_logo.jpg">
+            </td>
+            <td style="margin-left:20px;width:80%;vertical-align:middle">
+                <div >
+                    Ph. D. Candidate
+                </div>
+                Sep. 2021 - Present <br>
+                Advisor: <a href="https://scholar.google.com/citations?user=aiy5G0oAAAAJ&hl=en">Haoji Hu</a><br>
+            </td>
+        </tr>
+    </tbody>
+</table>
