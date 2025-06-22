@@ -216,14 +216,20 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
   
 </table>
 
-
-
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Experience ##
+
+<head>  
+  <style>  
+    table, th, td {  
+      border: 0;  
+    }  
+  </style>  
+</head>
 
 <table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
         <tr>
-            <td  style="padding:20px;width20%;vertical-align:middle">
+            <td  style="padding:20px;width:20%;vertical-align:middle">
                 <img width="130" src="/images/kuaishou_logo.png">
             </td>
             <td style="margin-left:20px;width:80%;vertical-align:middle">
