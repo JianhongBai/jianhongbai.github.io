@@ -224,7 +224,7 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
   </style>  
 </head>
 
-## Experience
+## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Experience ##
 
 <table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
@@ -247,7 +247,7 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
             </td>
             <td style="margin-left:20px;width:80%;vertical-align:middle">
                 <div >
-                    Research Intern, Machine Learning Group, <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">MicroSoft Research Asia</a></div>
+                    Research Intern, Machine Learning Group, Microsoft Research Asia</a></div>
                 Aug. 2023 - May. 2024 <br>
                 Advisor: <a href="https://scholar.google.com/citations?user=P08KU1YAAAAJ&hl=en">Tianyu He</a>, <a href="https://tan-xu.github.io/">Xu Tan</a><br>
                 Interests: Video Editing
@@ -259,7 +259,7 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
             </td>
             <td style="margin-left:20px;width:80%;vertical-align:middle">
                 <div >
-                    Ph. D. Candidate
+                    Ph. D. Candidate, Zhejiang University
                 </div>
                 Sep. 2021 - Present <br>
                 Advisor: <a href="https://scholar.google.com/citations?user=aiy5G0oAAAAJ&hl=en">Haoji Hu</a><br>
