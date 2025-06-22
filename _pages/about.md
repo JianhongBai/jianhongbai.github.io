@@ -247,7 +247,7 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
             </td>
             <td style="margin-left:20px;width:60%;vertical-align:middle">
                 <div >
-                    Research Intern, Machine Learning Group, Microsoft Research Asia</a></div>
+                    Research Intern, Machine Learning Group, Microsoft Research Asia</div>
                 Aug. 2023 - May. 2024 <br>
                 Advisor: <a href="https://scholar.google.com/citations?user=P08KU1YAAAAJ&hl=en">Tianyu He</a>, <a href="https://tan-xu.github.io/">Xu Tan</a><br>
                 Interests: Video Editing
