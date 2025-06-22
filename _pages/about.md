@@ -229,10 +229,10 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
 <table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
         <tr>
-            <td  style="padding:20px;width:20%;vertical-align:middle">
+            <td  style="padding:20px;width:40%;vertical-align:middle">
                 <img width="750" src="/images/kuaishou_logo.png">
             </td>
-            <td style="margin-left:20px;width:80%;vertical-align:middle">
+            <td style="margin-left:20px;width:60%;vertical-align:middle">
                 <div >
                     Research Intern, Kling, Kuaishou
                 </div>
@@ -242,10 +242,10 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
             </td>
         </tr>
         <tr>
-            <td  style="padding:20px;width:20%;vertical-align:middle">
+            <td  style="padding:20px;width:40%;vertical-align:middle">
                 <img width="750" src="/images/ms_logo.png">
             </td>
-            <td style="margin-left:20px;width:80%;vertical-align:middle">
+            <td style="margin-left:20px;width:60%;vertical-align:middle">
                 <div >
                     Research Intern, Machine Learning Group, Microsoft Research Asia</a></div>
                 Aug. 2023 - May. 2024 <br>
@@ -254,10 +254,10 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
             </td>
         </tr>
         <tr>
-            <td  style="padding:20px;width:20%;vertical-align:middle">
+            <td  style="padding:20px;width:40%;vertical-align:middle">
                 <img width="750" src="/images/zju_logo.jpg">
             </td>
-            <td style="margin-left:20px;width:80%;vertical-align:middle">
+            <td style="margin-left:20px;width:60%;vertical-align:middle">
                 <div >
                     Ph. D. Candidate, Zhejiang University
                 </div>
