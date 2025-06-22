@@ -216,7 +216,7 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
   
 </table>
 
-<h2><i class="fa fa-graduation-cap" aria-hidden="true"></i> Experience</h2>
+<h2>Experience</h2>
 
 <head>  
   <style>  
@@ -230,7 +230,7 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
     <tbody>
         <tr>
             <td  style="padding:20px;width:20%;vertical-align:middle">
-                <img width="130" src="/images/kuaishou_logo.png">
+                <img width="750" src="/images/kuaishou_logo.png">
             </td>
             <td style="margin-left:20px;width:80%;vertical-align:middle">
                 <div >
@@ -243,7 +243,7 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
         </tr>
         <tr>
             <td  style="padding:20px;width:20%;vertical-align:middle">
-                <img width="130" src="/images/ms_logo.png">
+                <img width="750" src="/images/ms_logo.png">
             </td>
             <td style="margin-left:20px;width:80%;vertical-align:middle">
                 <div >
@@ -255,7 +255,7 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
         </tr>
         <tr>
             <td  style="padding:20px;width:20%;vertical-align:middle">
-                <img width="130" src="/images/zju_logo.jpg">
+                <img width="750" src="/images/zju_logo.jpg">
             </td>
             <td style="margin-left:20px;width:80%;vertical-align:middle">
                 <div >
