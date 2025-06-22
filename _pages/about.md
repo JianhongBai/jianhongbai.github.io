@@ -83,8 +83,9 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/user-attachments/assets/d6c1e7b3-8a92-4b2d-b87c-4e93ab86581c" width="750" />
+    <img src="https://github.com/user-attachments/assets/d526a5d3-88ed-4dfc-acff-0efbc0c51d00" width="750" />
   </td>
+
 
   <td style="border-collapse: collapse; border: none;">
     Jiwen Yu, <b>Jianhong Bai</b>, Yiran Qin et al.
