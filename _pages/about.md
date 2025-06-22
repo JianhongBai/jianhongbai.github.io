@@ -216,13 +216,7 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
   
 </table>
 
-<head>  
-  <style>  
-    table, th, td {  
-      border: 0;  
-    }  
-  </style>  
-</head>
+
 
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Experience ##
 
