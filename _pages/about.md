@@ -238,7 +238,7 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
                 </div>
                 May. 2024 - Present <br>
                 Advisor: <a href="https://menghanxia.github.io/">Menghan Xia</a>, <a href="https://xinntao.github.io/">Xintao Wang</a><br>
-                Interests: Controlled Video Generation
+                Interests: Controllable Video Generation
             </td>
         </tr>
         <tr>
