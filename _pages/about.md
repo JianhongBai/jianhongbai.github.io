@@ -11,13 +11,16 @@ redirect_from:
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
 Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang University, advised by Prof. Haoji Hu. Before that, I received my B.S. degree from Beijing Institute of Technology. Currently, I'm a research intern with the Kling Team, focusing on controllable video generation. I was fortunate to intern at MSRA, working with many fantastic researchers. Feel free to reach out to me at [cpurgicn@gmail.com](mailto:cpurgicn@gmail.com).
 
+**I will be graduating in the summer of 2026 and am currently seeking job opportunities. Please feel free to contact me via email.**
+
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 180px; overflow: auto">
 
+<li> <b>2025/07</b>: 1 paper accepted by ICCV'25. </li>
 <li> <b>2025/01</b>: 1 paper accepted by ICLR'25. </li>
 <li> <b>2024/12</b>: 1 paper accepted by AAAI'25. </li>
-<li> <b>2024/05</b>: Start a research internship at Kling Team, advised by Prof. <a href="https://xinntao.github.io/">Xintao Wang</a> and Prof. <a href="https://menghanxia.github.io/">Menghan Xia</a>. </li>
+<li> <b>2024/05</b>: Start a research internship at Kling Team, advised by Prof. <a href="https://menghanxia.github.io/">Menghan Xia</a> and Prof. <a href="https://xinntao.github.io/">Xintao Wang</a>. </li>
 <li> <b>2023/12</b>: 1 paper accepted by AAAI'24. </li>
 <li> <b>2023/09</b>: 2 paper accepted by NeurIPS'23. </li>
 <li> <b>2023/08</b>: Start a research internship at Microsoft Research Asia (MSRA), advised by Prof. <a href="https://www.microsoft.com/en-us/research/people/tianyuhe/">Tianyu He</a> and Prof. <a href="https://tan-xu.github.io/">Xu Tan</a>. </li>
