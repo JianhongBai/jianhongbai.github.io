@@ -107,7 +107,7 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Tianyu He, Yuchi Wang et al.
     "UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing".
-    <b>Preprint</b> 2024.<br>
+    In <b>ACM MM</b> 2025.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2402.13185">Arxiv</a></span><br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
