@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
-Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang University, advised by Prof. Haoji Hu. Currently, I'm a research intern with the Kling Team, focusing on controllable video generation. I was fortunate to intern at MSRA, working with many fantastic researchers. Feel free to reach out to me at [cpurgicn@gmail.com](mailto:cpurgicn@gmail.com).
+Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang University, advised by Prof. Haoji Hu. Currently, I'm a research intern with the Kling Team, focusing on video generation. I was fortunate to intern at MSRA, working with many fantastic researchers. Feel free to reach out to me at [cpurgicn@gmail.com](mailto:cpurgicn@gmail.com).
 
 **I will be graduating in the summer of 2026 and am currently seeking job opportunities. Please feel free to contact me via email.**
 
@@ -17,6 +17,8 @@ Hi there! I'm Jianhong Bai. I am a 4th-year Ph.D. candidate at Zhejiang Universi
 
 <ul style="width: auto; height: 180px; overflow: auto">
 
+<li> <b>2025/10</b>: Our work ReCamMaster is selected as ICCV'25 Best Paper Finalist. </li>
+<li> <b>2025/08</b>: 2 paper accepted by SIGGRAPH ASIA'25. </li>
 <li> <b>2025/07</b>: 1 paper accepted by ICCV'25. </li>
 <li> <b>2025/01</b>: 1 paper accepted by ICLR'25. </li>
 <li> <b>2024/12</b>: 1 paper accepted by AAAI'25. </li>
