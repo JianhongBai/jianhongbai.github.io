@@ -79,7 +79,7 @@ Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang Universi
   <td style="border-collapse: collapse; border: none;">
     Yawen Luo, <b>Jianhong Bai</b>, Xiaoyu Shi et al.
     "CamCloneMaster: Enabling Reference-based Camera Control for Video Generation".
-    <b>Preprint</b> 2025.<br>
+    In <b>SIGGRAPH ASIA</b> 2025.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2506.03140">Arxiv</a></span><br>
     <span><a href="https://camclonemaster.github.io/">Project page</a></span>
@@ -95,7 +95,7 @@ Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang Universi
   <td style="border-collapse: collapse; border: none;">
     Jiwen Yu, <b>Jianhong Bai</b>, Yiran Qin et al.
     "Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval".
-    <b>Preprint</b> 2025.<br>
+    In <b>SIGGRAPH ASIA</b> 2025.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2506.03141">Arxiv</a></span><br>
     <span><a href="https://context-as-memory.github.io/">Project page</a></span>
