@@ -17,7 +17,7 @@ Hi there! I'm Jianhong Bai. I am currently a Researcher at ByteDance Seed, worki
 
 <ul style="width: auto; height: 180px; overflow: auto">
 
-<li> <b>2026/03</b>: Joined <a href="https://team.doubao.com/seed">ByteDance Seed</a> as a Researcher, working on video world models. </li>
+<li> <b>2026/03</b>: Joined <a href="https://seed.bytedance.com/en/">ByteDance Seed</a> as a Researcher, working on video world models. </li>
 <li> <b>2026/03</b>: Received my Ph.D. from Zhejiang University. </li>
 <li> <b>2026/02</b>: Concluded my research internship at the Kling Team, Kuaishou. </li>
 <li> <b>2025/12</b>: Released <a href="https://arxiv.org/abs/2512.20619">SemanticGen</a>, a video generation framework that operates in the semantic space, on arXiv. </li>
