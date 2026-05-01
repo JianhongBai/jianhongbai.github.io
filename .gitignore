@@ -1,2 +1,13 @@
+# build output
 _site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
 
+# local jekyll dev (we use a minimal Gemfile locally; GitHub Pages uses its own gem set)
+Gemfile
+Gemfile.lock
+vendor/
+
+# image edit backups
+*.bak

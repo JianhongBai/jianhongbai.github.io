@@ -9,14 +9,18 @@ redirect_from:
 ---
 
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
-Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang University, advised by Prof. Haoji Hu. Currently, I'm a research intern with the Kling Team, focusing on video generation. I was fortunate to intern at MSRA, working with many fantastic researchers. Feel free to reach out to me at [cpurgicn@gmail.com](mailto:cpurgicn@gmail.com).
+Hi there! I'm Jianhong Bai. I am currently a Researcher at ByteDance Seed, working on video world models. I received my Ph.D. from Zhejiang University in March 2026, advised by Prof. [Haoji Hu](https://person.zju.edu.cn/en/huhaoji). Prior to ByteDance, I was fortunate to work on video generation as a research intern at the Kling Team, Kuaishou (2024–2026) with [Menghan Xia](https://menghanxia.github.io/) and [Xintao Wang](https://xinntao.github.io/), and at Microsoft Research Asia (2023–2024) with [Tianyu He](https://www.microsoft.com/en-us/research/people/tianyuhe/) and [Xu Tan](https://tan-xu.github.io/). Feel free to reach out to me at [cpurgicn@gmail.com](mailto:cpurgicn@gmail.com).
 
-**I will be graduating in the summer of 2026 and am currently seeking job opportunities. Please feel free to contact me via email.**
+*I am looking for self-motivated research interns to work on video world models and video generation. Please drop me an email if interested.*
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 180px; overflow: auto">
 
+<li> <b>2026/03</b>: Joined <a href="https://team.doubao.com/seed">ByteDance Seed</a> as a Researcher, working on video world models. </li>
+<li> <b>2026/03</b>: Received my Ph.D. from Zhejiang University. </li>
+<li> <b>2026/02</b>: Concluded my research internship at the Kling Team, Kuaishou. </li>
+<li> <b>2025/12</b>: Released <a href="https://arxiv.org/abs/2512.20619">SemanticGen</a>, a video generation framework that operates in the semantic space, on arXiv. </li>
 <li> <b>2025/10</b>: Our work ReCamMaster is selected as ICCV'25 Best Paper Finalist. </li>
 <li> <b>2025/08</b>: 2 paper accepted by SIGGRAPH ASIA'25. </li>
 <li> <b>2025/07</b>: 1 paper accepted by ICCV'25. </li>
@@ -33,7 +37,27 @@ Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang Universi
 
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Selected Publications ##
 
-<table style="border: none; border-collapse: collapse;" border="0">
+<style>
+  /* Make publication thumbnails responsive on small screens. */
+  table.publications { width: 100%; }
+  table.publications img { max-width: 100%; height: auto; }
+</style>
+
+<table class="publications" style="border: none; border-collapse: collapse;" border="0">
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="/images/teaser_semanticgen.png" width="750" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Jianhong Bai</b>, Xiaoshi Wu, Xintao Wang et al.
+    "SemanticGen: Video Generation in Semantic Space".
+    <b>Preprint</b> 2025.<br>
+    <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/abs/2512.20619">Arxiv</a></span><br>
+    <span><a href="https://jianhongbai.github.io/SemanticGen/">Project page</a></span>
+  </td>
+</tr>
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
@@ -127,7 +151,7 @@ Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang Universi
     "Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control".
     <b>Preprint</b> 2025.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/pdf/2506.01943">Arxiv</a></span><br>
+    <span><a href="https://arxiv.org/abs/2506.01943">Arxiv</a></span><br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KwaiVGI/RoboMaster">Code</a></span><br>
     <span><a href="https://fuxiao0719.github.io/projects/robomaster/">Project page</a></span>
@@ -149,8 +173,6 @@ Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang Universi
   </td>
 </tr>
 
-<table style="border: none; border-collapse: collapse;" border="0">
-
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pipeline_neurips23.svg" width="615" />
@@ -165,10 +187,6 @@ Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang Universi
     <span><a href="https://github.com/JianhongBai/BaCon">Code</a></span>
   </td>
 </tr>
-  
-</table>
-
-<table style="border: none; border-collapse: collapse;" border="0">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
@@ -184,10 +202,6 @@ Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang Universi
     <span><a href="https://github.com/JianhongBai/COLT">Code</a></span>
   </td>
 </tr>
-  
-</table>
-
-<table style="border: none; border-collapse: collapse;" border="0">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
@@ -198,13 +212,9 @@ Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang Universi
     "Robustness-Guided Image Synthesis for Data-Free Quantization".
     In <b>AAAI</b> 2024.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/pdf/2310.03661">Arxiv</a></span><br>
+    <span><a href="https://arxiv.org/abs/2310.03661">Arxiv</a></span><br>
   </td>
 </tr>
-  
-</table>
-
-<table style="border: none; border-collapse: collapse;" border="0">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
@@ -213,9 +223,9 @@ Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang Universi
   <td style="border-collapse: collapse; border: none;">
     Lianrui Mu*, <b>Jianhong Bai*</b>, Xiaoxuan He et al.
     "TeG-DG: Textually Guided Domain Generalization for Face Anti-Spoofing".
-    <b>Preprint</b>.<br>
+    <b>Preprint</b> 2023.<br>
     <img src="https://raw.githubusercontent.com/JianhongBai/jianhongbai.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/pdf/2311.18420">Arxiv</a></span><br>
+    <span><a href="https://arxiv.org/abs/2311.18420">Arxiv</a></span><br>
   </td>
 </tr>
   
@@ -223,27 +233,37 @@ Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang Universi
 
 <h2>Experience</h2>
 
-<head>  
-  <style>  
-    table, th, td {  
-      border: 0;  
-    }  
-  </style>  
-</head>
+<style>
+  /* Responsive logos in the experience table. */
+  table.experience img { max-width: 100%; height: auto; }
+</style>
 
-<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<table class="experience" style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
         <tr>
             <td  style="padding:20px;width:40%;vertical-align:middle">
-                <img width="750" src="/images/kuaishou_logo.png">
+                <img width="750" src="/images/seed%20logo.png">
+            </td>
+            <td style="margin-left:20px;width:60%;vertical-align:middle">
+                <div >
+                    Researcher, ByteDance Seed
+                </div>
+                Mar. 2026 - Present <br>
+                Advisor: <a href="https://haoqifan.github.io/">Haoqi Fan</a><br>
+                Interests: Video World Models
+            </td>
+        </tr>
+        <tr>
+            <td  style="padding:20px;width:40%;vertical-align:middle">
+                <img width="750" src="/images/kling%20logo.png">
             </td>
             <td style="margin-left:20px;width:60%;vertical-align:middle">
                 <div >
                     Research Intern, Kling, Kuaishou
                 </div>
-                May. 2024 - Present <br>
+                May. 2024 - Feb. 2026 <br>
                 Advisor: <a href="https://menghanxia.github.io/">Menghan Xia</a>, <a href="https://xinntao.github.io/">Xintao Wang</a><br>
-                Interests: Controllable Video Generation
+                Interests: Video Generation
             </td>
         </tr>
         <tr>
@@ -254,8 +274,8 @@ Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang Universi
                 <div >
                     Research Intern, Machine Learning Group, Microsoft Research Asia</div>
                 Aug. 2023 - May. 2024 <br>
-                Advisor: <a href="https://scholar.google.com/citations?user=P08KU1YAAAAJ&hl=en">Tianyu He</a>, <a href="https://tan-xu.github.io/">Xu Tan</a><br>
-                Interests: Video Editing
+                Advisor: <a href="https://www.microsoft.com/en-us/research/people/tianyuhe/">Tianyu He</a>, <a href="https://tan-xu.github.io/">Xu Tan</a><br>
+                Interests: Video Generation
             </td>
         </tr>
         <tr>
@@ -264,10 +284,11 @@ Hi there! I'm Jianhong Bai. I am a 5th-year Ph.D. candidate at Zhejiang Universi
             </td>
             <td style="margin-left:20px;width:60%;vertical-align:middle">
                 <div >
-                    Ph. D. Candidate, Zhejiang University
+                    Ph.D., Zhejiang University
                 </div>
-                Sep. 2021 - Present <br>
-                Advisor: <a href="https://scholar.google.com/citations?user=aiy5G0oAAAAJ&hl=en">Haoji Hu</a><br>
+                Sep. 2021 - Mar. 2026 <br>
+                Advisor: <a href="https://person.zju.edu.cn/en/huhaoji">Haoji Hu</a><br>
+                Interests: Computer Vision
             </td>
         </tr>
     </tbody>
